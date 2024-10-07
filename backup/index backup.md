@@ -8,9 +8,9 @@ layout: page
 
 Here is **Zipeng Zhu (Hubert, 朱梓鹏)**.
 
-I'm a graduate student in the School of Journalism and Communication at Nanjing University. I've had the privilege of engaging in exciting academic pursuits, including presenting research at the National Communication Association and the International Association for Media and Communication Research. I've been fortunate to contribute to impactful journalism at Southern Weekly and Bytedance, where my articles have resonated with a wide audience. As the Chief Editor at Shenzhen University's Journal, I've enjoyed guiding a team to produce engaging content that has expanded our readership.I'm grateful for the accolades I've received, such as the Guangdong University Student of the Year and the Chinese National Scholarship, which are reminders of the support and opportunities I've been given.I'm always eager to learn from others and collaborate on projects that push the boundaries of media and communication. 
+I am a graduate student in the Department of Engineering at the University of Cambridge, advised by [Prof. Özgür Akan](https://ioe.eng.cam.ac.uk/directory/akan), within [Internet of Everything (IoE) Group](https://ioe.eng.cam.ac.uk/). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/). Prior to Cambridge,  I have worked on System Engineering, Cybersecurity and Wireless Communication with [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Recently, I was honored to be selected as **AAAI and SIGKDD Undergraduate Scholars**.
 
-If you have any thoughts or ideas you'd like to discuss, or if you're just interested in getting to know each other, please don't hesitate to reach out. You can contact me at zzpeng0216 [at] foxmail.com.
+If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - hc663 [at] cam.ac.uk
 
 ---
 
