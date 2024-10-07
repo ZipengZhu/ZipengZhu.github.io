@@ -8,9 +8,13 @@ layout: page
 
 Here is **Zipeng Zhu (Hubert, 朱梓鹏)**.
 
-I'm a graduate student in the School of Journalism and Communication at Nanjing University. I've had the privilege of engaging in exciting academic pursuits, including presenting research at the National Communication Association and the International Association for Media and Communication Research. I've been fortunate to contribute to impactful journalism at Southern Weekly and Bytedance, where my articles have resonated with a wide audience. As the Chief Editor at Shenzhen University's Journal, I've enjoyed guiding a team to produce engaging content that has expanded our readership.I'm grateful for the accolades I've received, such as the Guangdong University Student of the Year and the Chinese National Scholarship, which are reminders of the support and opportunities I've been given.I'm always eager to learn from others and collaborate on projects that push the boundaries of media and communication. 
+Greetings and thank you for visiting my academic profile! I am Zipeng Zhu, a graduate student in the School of Journalism and Communication at Nanjing University, where I am immersed in the vibrant world of data visualization, STS studies, human-computer interaction, and intelligent communication.
 
-If you have any thoughts or ideas you'd like to discuss, or if you're just interested in getting to know each other, please don't hesitate to reach out. You can contact me at zzpeng0216 [at] foxmail.com.
+I have been fortunate to contribute to the scholarly dialogue through presentations at prestigious international conferences such as the Association for Education in Journalism and Mass Communication (**AEJMC**), the National Communication Association (**NCA**), and the International Association for Media and Communication Research (**IAMCR**). These experiences have not only honed my research skills but also allowed me to engage with a global community of scholars and practitioners.
+
+My academic credentials include a Bachelor’s degree in Journalism from Shenzhen University, where I was recognized as an outstanding graduate and received **the highest special scholarship (ranked 1st in the university).** I also had the privilege of being named one of the Guangdong Province University Students of the Year and was awarded the "2022 Annual Outstanding Student Award" in the Chinese Academy of Social Sciences database, "China Journalism and Communication Yearbook (2023)".
+
+I am always eager to connect with fellow scholars, researchers, and professionals who share my passion for media, communication, and technology. If you're interested in collaborating or simply wish to exchange ideas, please feel free to reach out to me at zzpeng0216 [at] foxmail.com.
 
 ---
 
@@ -20,7 +24,7 @@ If you have any thoughts or ideas you'd like to discuss, or if you're just inter
 - Cyber-Physical System
 - Applied Machine Learning
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+My current research focuses on STS studies and intelligent communication.My research endeavors are a blend of academic rigor and practical application, with a particular focus on how digital technologies are reshaping the landscape of media and communication. I am committed to exploring the intricate ways in which data is encoded, disseminated, and consumed in our increasingly interconnected world.
 
 ---
 
