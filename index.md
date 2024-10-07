@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="https://ZipengZhu.github.io/zipeng zhu picture.jpg" class="floatpic" width="360" height="480">
 
 Here is **Zipeng Zhu (Hubert, 朱梓鹏)**.
 
