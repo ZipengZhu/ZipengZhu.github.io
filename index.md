@@ -14,7 +14,7 @@ I have been fortunate to contribute to the scholarly dialogue through presentati
 
 My academic credentials include a Bachelor’s degree in Journalism from Shenzhen University, where I was recognized as an outstanding graduate and received **the highest special scholarship (ranked 1st in the university).** I also had the privilege of being named one of the Guangdong Province University Students of the Year and was awarded the **"2022 Annual Outstanding Student Award"** in the Chinese Academy of Social Sciences database, "China Journalism and Communication Yearbook (2023)".
 
-I am always eager to connect with fellow scholars, researchers, and professionals who share my passion for media, communication, and technology. If you're interested in collaborating or simply wish to exchange ideas, please feel free to reach out to me at **zzpeng0216 [at] foxmail.com**.
+I am always eager to connect with fellow scholars and professionals who share my passion for media, communication, and technology. If you're interested in collaborating or simply wish to exchange ideas, please feel free to reach out to me at **zzpeng0216 [at] foxmail.com**.
 
 ---
 
@@ -30,11 +30,11 @@ My research endeavors are a blend of academic rigor and practical application, w
 
 ## News and Updates
 
-- **June 2024**：Very excited to be the only candidate of the Guangdong Province University Students of the Year in the whole university, which is being selected in the province.
-- **May 2024：The graduation presentation was successfully completed and I was awarded the title of Outstanding Graduate and an Honorary Degree.
-- **Feb 2024：Wrapped up an internship as a product manager on the [ByteDance](https://www.bytedance.com/en/) TikTok team, earning an internal recommendation from the department.
-- **Nov 2023：**Very excited to get a the highest special scholarship (rank 1st in the university)  of Shenzhen University.
-- **Oct 2022：**Our work has been selected as [Data Content Conference Case of the Year](https://www.thepaper.cn/newsDetail_forward_21179901?commTag=true). See you in Shanghai!
-- **Jun 2021：**Started research programme at [Digital Wildness Project](http://m.ccgc-szu.com/nd.jsp?id=24), advised by Prof. Criver.
+- **June 2024**：Very excited to be the only candidate of the Guangdong Province University Students of the Year in the whole university!!
+- **May 2024**：The graduation presentation was successfully completed and I was awarded the title of Outstanding Graduate and an Honorary Degree.
+- **Feb 2024**:Wrapped up an internship as a product manager on the [ByteDance](https://www.bytedance.com/en/) TikTok team！
+- **Nov 2023**：Very excited to get the highest special scholarship (rank 1st in the university)  of Shenzhen University.
+- **Oct 2022**：Our work has been selected as [Data Content Conference Case of the Year](https://www.thepaper.cn/newsDetail_forward_21179901?commTag=true). See you in Shanghai!
+- **Jun 2021**：Started research programme at [Digital Wildness Project](http://m.ccgc-szu.com/nd.jsp?id=24), advised by Prof. Criver.
 
 
