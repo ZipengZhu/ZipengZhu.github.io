@@ -8,8 +8,8 @@ title: Awards
 
 ## Scholarships
 
-- Jun 2024：**College Student of the Year in Guangdong Province** <br>(the only candidate selected from SZU)
-- Jan 2024：**National Scholarship**<br>Only 21 undergraduates are selected around the world
+- Jun 2024：**College Student of the Year in Guangdong Province** <br>(the only candidate selected from the whole university)
+- Jan 2024：**National Scholarship**<br>Only 2 undergraduates are selected in the school of media and communication
 - Jan 2024: **"Outstanding Student Award" in "China Journalism and Communication Yearbook (2023)"**
 - Nov 2023：**The highest scholarship "SZU Excellence Star" of 2023** <br>ranked 1st in the university<br>
 
