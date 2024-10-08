@@ -19,7 +19,7 @@ title: Publications
 
 ## Ongoing Project
 
-- A buddy I can talk to: Exploring the Impact of Social Presence and Relational Capabilities on Self-Disclosure to Chatbots(2024)<br>
+- **A buddy I can talk to: Exploring the Impact of Social Presence and Relational Capabilities on Self-Disclosure to Chatbots**(2024)<br>
     The ongoing project is examining how people's perceptions and emotional responses to AI chatbots influence their propensity to self-disclose through these platforms. Data from 629 users, gathered via the Credamo platform, is currently being analyzed using structural equation modeling to understand usage patterns. Early findings suggest that a sense of social presence positively impacts the depth of interaction with chatbots. Gender appears to moderate this interaction, with distinct usage patterns observed between male and female users. The project continues to delve deeper into these dynamics.
 
 
