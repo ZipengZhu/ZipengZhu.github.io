@@ -36,5 +36,10 @@ My research endeavors are a blend of academic rigor and practical application, w
 - **Nov 2023**：Very excited to get the highest special scholarship (rank 1st in the university)  of Shenzhen University.
 - **Oct 2022**：Our work has been selected as [Data Content Conference Case of the Year](https://www.thepaper.cn/newsDetail_forward_21179901?commTag=true). See you in Shanghai!
 - **Jun 2021**：Started research programme at [Digital Wildness Project](http://m.ccgc-szu.com/nd.jsp?id=24), advised by Prof. Criver.
+<br>
+
+<img src="https://ZipengZhu.github.io/present.jpg" class="floatpic" width="360" height="480">
+
+<img src="https://ZipengZhu.github.io/szustar.jpg" class="floatpic" width="360" height="480">
 
 
