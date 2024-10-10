@@ -38,8 +38,5 @@ My research endeavors are a blend of academic rigor and practical application, w
 - **Jun 2021**：Started research programme at [Digital Wildness Project](http://m.ccgc-szu.com/nd.jsp?id=24), advised by Prof. Criver.
 <br>
 
-<img src="https://ZipengZhu.github.io/present.jpg" class="floatpic" width="360" height="480">
-
-<img src="https://ZipengZhu.github.io/szustar.jpg" class="floatpic" width="360" height="480">
 
 
